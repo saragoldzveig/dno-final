@@ -4,7 +4,7 @@
 Este análisis permitirá obtener una visión completa y detallada de cómo, cuándo y dónde los chilenos consumen pan, así como de las tendencias y factores que influyen en este comportamiento. El pan es un alimento fundamental en la dieta chilena, y entender su consumo puede proporcionar valiosa información para la industria alimentaria, la planificación económica y la salud pública.
 
 
-![Uploading hallullas-13.jpg…]()
+![Tema-01-pan-ok-ok](https://github.com/saragoldzveig/dno-final/assets/142369014/863e4c08-9c6f-47f2-ad16-fe903faabb21)
 
 
 ### Dimensiones
