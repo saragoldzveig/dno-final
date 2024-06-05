@@ -3,4 +3,4 @@
 ## Tema
 ### Dimensiones tema
 
-## Indicadores
+## Indicadores para cada dimensión
