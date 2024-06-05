@@ -1,5 +1,6 @@
-# dno-final
 # Título
+
 ## Tema
-### Dimensiones del tema
+### Dimensiones tema
+
 ## Indicadores
