@@ -7,7 +7,7 @@ Este análisis permitirá obtener una visión completa y detallada de cómo, cu�
 ![Tema-01-pan-ok-ok](https://github.com/saragoldzveig/dno-final/assets/142369014/863e4c08-9c6f-47f2-ad16-fe903faabb21)
 
 
-### Dimensiones
+## Dimensiones
 #### 1. Región Geográfica
    Esta dimensión analiza las variaciones en el consumo de pan en diferentes regiones de Chile. Factores como las diferencias culturales, económicas y el acceso a productos pueden 
    influir significativamente en el consumo regional. Esta dimensión permite identificar patrones de consumo específicos de cada área geográfica, proporcionando una visión detallada de 
