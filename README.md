@@ -51,6 +51,7 @@ La página NO incluye elementos interactivos, la información pierde dinamismo, 
 #### ELEMENTOS POSITIVOS
 La información se presenta de manera secuencial y lógica, guiando al usuario a través de la historia con una clara progresión de los eventos y datos.
 
+***
 
 <img width="1274" alt="Captura de Pantalla 2024-06-12 a la(s) 19 44 38" src="https://github.com/saragoldzveig/dno-final/assets/142369014/72c85f80-2e9a-4c3f-9648-b6a6e291b69d">
 
@@ -62,6 +63,8 @@ Parte de la información clave puede depender de la interacción del usuario con
 
 #### ELEMENTOS POSITIVOS
 Se utilizan diversos tipos de medios (gráficos, mapas, ilustraciones, texto) que enriquecen la narrativa y ayudan a ilustrar los puntos clave de manera efectiva.
+
+***
 
 <img width="1278" alt="Captura de Pantalla 2024-06-12 a la(s) 19 46 41" src="https://github.com/saragoldzveig/dno-final/assets/142369014/b3f436d4-c31a-4222-a612-bc166485e71d">
 
