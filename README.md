@@ -40,6 +40,7 @@ Este análisis permitirá obtener una visión completa y detallada de cómo, cu�
 ## REFERENTES
 
 <img width="1272" alt="Captura de Pantalla 2024-06-12 a la(s) 19 45 07" src="https://github.com/saragoldzveig/dno-final/assets/142369014/fadd52a7-e4fd-4ae2-b2a3-63040a7cba19">
+
 ### 1. Balloon offensive
 Seoul-based activists develop tech to send messages deep into North Korea
 web: https://www.reuters.com/graphics/NORTHKOREA-SOUTHKOREA/BALLOONS/zdvxxrnzmvx/
@@ -52,6 +53,7 @@ La información se presenta de manera secuencial y lógica, guiando al usuario a
 
 
 <img width="1274" alt="Captura de Pantalla 2024-06-12 a la(s) 19 44 38" src="https://github.com/saragoldzveig/dno-final/assets/142369014/72c85f80-2e9a-4c3f-9648-b6a6e291b69d">
+
 ### 2. How the coronavirus disrupts food supply chains
 web: https://multimedia.scmp.com/infographics/news/world/article/3080824/covid19-disrupts-food-supply/index.html
 
@@ -62,6 +64,7 @@ Parte de la información clave puede depender de la interacción del usuario con
 Se utilizan diversos tipos de medios (gráficos, mapas, ilustraciones, texto) que enriquecen la narrativa y ayudan a ilustrar los puntos clave de manera efectiva.
 
 <img width="1278" alt="Captura de Pantalla 2024-06-12 a la(s) 19 46 41" src="https://github.com/saragoldzveig/dno-final/assets/142369014/b3f436d4-c31a-4222-a612-bc166485e71d">
+
 ### 3. Ten signature dishes from around the world
 web: (https://multimedia.scmp.com/lifestyle/article/2178630/the-pleasure-of-food/)
 
