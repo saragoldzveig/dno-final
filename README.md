@@ -61,3 +61,12 @@ Parte de la información clave puede depender de la interacción del usuario con
 #### ELEMENTOS POSITIVOS
 Se utilizan diversos tipos de medios (gráficos, mapas, ilustraciones, texto) que enriquecen la narrativa y ayudan a ilustrar los puntos clave de manera efectiva.
 
+<img width="1278" alt="Captura de Pantalla 2024-06-12 a la(s) 19 46 41" src="https://github.com/saragoldzveig/dno-final/assets/142369014/b3f436d4-c31a-4222-a612-bc166485e71d">
+### 3. Ten signature dishes from around the world
+web: (https://multimedia.scmp.com/lifestyle/article/2178630/the-pleasure-of-food/)
+
+#### ELEMENTOS NEGATIVOS
+La infografía puede ser considerada demasiado corta para algunos usuarios, quienes podrían esperar una cobertura más detallada y exhaustiva del tema. Esto puede dar una sensación de insuficiencia informativa, especialmente para aquellos que buscan un análisis más profundo.
+
+#### ELEMENTOS POSITIVOS
+La infografía presenta un diseño limpio y moderno, con una combinación efectiva de colores y elementos visuales que atraen la atención del usuario.
