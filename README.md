@@ -68,7 +68,7 @@ Se utilizan diversos tipos de medios (gráficos, mapas, ilustraciones, texto) qu
 <img width="1278" alt="Captura de Pantalla 2024-06-12 a la(s) 19 46 41" src="https://github.com/saragoldzveig/dno-final/assets/142369014/b3f436d4-c31a-4222-a612-bc166485e71d">
 
 ### 3. Ten signature dishes from around the world
-web: (https://multimedia.scmp.com/lifestyle/article/2178630/the-pleasure-of-food/)
+web: https://multimedia.scmp.com/lifestyle/article/2178630/the-pleasure-of-food/
 
 #### ELEMENTOS NEGATIVOS
 La infografía puede ser considerada demasiado corta para algunos usuarios, quienes podrían esperar una cobertura más detallada y exhaustiva del tema. Esto puede dar una sensación de insuficiencia informativa, especialmente para aquellos que buscan un análisis más profundo.
@@ -94,7 +94,7 @@ La infografía presenta un diseño simple y conciso, generando un entendimineto 
 <img width="1278" alt="Captura de Pantalla 2024-06-12 a la(s) 19 58 21" src="https://github.com/saragoldzveig/dno-final/assets/142369014/5d6ad85f-048d-4a0d-a676-4ddc6ba7ef78">
 
 ### 5. All you need to know about the Year of the Rabbit
-web: [(https://multimedia.scmp.com/lifestyle/article/2178630/the-pleasure-of-food/)]
+web: https://multimedia.scmp.com/lifestyle/article/2178630/the-pleasure-of-food/
 
 #### ELEMENTOS NEGATIVOS
 Parte de la información clave puede depender de la interacción del usuario con la página. Esto podría ser un problema si los usuarios no interactúan con todos los elementos disponibles y, por lo tanto, pierden parte de la información.
