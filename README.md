@@ -37,8 +37,7 @@ Este análisis permitirá obtener una visión completa y detallada de cómo, cu�
 
 ***
 
-## REFERENTES
-
+## Antecedentes
 <img width="1272" alt="Captura de Pantalla 2024-06-12 a la(s) 19 45 07" src="https://github.com/saragoldzveig/dno-final/assets/142369014/fadd52a7-e4fd-4ae2-b2a3-63040a7cba19">
 
 ### 1. Balloon offensive
@@ -59,7 +58,7 @@ La información se presenta de manera secuencial y lógica, guiando al usuario a
 web: https://multimedia.scmp.com/infographics/news/world/article/3080824/covid19-disrupts-food-supply/index.html
 
 #### ELEMENTOS NEGATIVOS
-Parte de la información clave puede depender de la interacción del usuario con la página. Esto podría ser un problema si los usuarios no interactúan con todos los elementos disponibles y, por lo tanto, pierden parte de la información.
+La ibfografía es muy larga, y al tener tanto elementos, llega a ser un poco confusa.
 
 #### ELEMENTOS POSITIVOS
 Se utilizan diversos tipos de medios (gráficos, mapas, ilustraciones, texto) que enriquecen la narrativa y ayudan a ilustrar los puntos clave de manera efectiva.
@@ -76,3 +75,30 @@ La infografía puede ser considerada demasiado corta para algunos usuarios, quie
 
 #### ELEMENTOS POSITIVOS
 La infografía presenta un diseño limpio y moderno, con una combinación efectiva de colores y elementos visuales que atraen la atención del usuario.
+
+***
+
+<img width="1287" alt="Captura de Pantalla 2024-06-12 a la(s) 19 55 21" src="https://github.com/saragoldzveig/dno-final/assets/142369014/26a23c58-5c4f-482f-8e3b-6cdeaafa62f1">
+
+### 4. From slumber to spectacle
+web: (https://multimedia.scmp.com/lifestyle/article/2178630/the-pleasure-of-food/)
+
+#### ELEMENTOS NEGATIVOS
+Utiliza muy pocos elementos para explicar el tema, por lo que tiende a ser un poco repetitivo.
+
+#### ELEMENTOS POSITIVOS
+La infografía presenta un diseño simple y conciso, generando un entendimineto rápido de parte del usuario.
+
+***
+
+<img width="1278" alt="Captura de Pantalla 2024-06-12 a la(s) 19 58 21" src="https://github.com/saragoldzveig/dno-final/assets/142369014/5d6ad85f-048d-4a0d-a676-4ddc6ba7ef78">
+
+### 5. All you need to know about the Year of the Rabbit
+web: [(https://multimedia.scmp.com/lifestyle/article/2178630/the-pleasure-of-food/)]
+
+#### ELEMENTOS NEGATIVOS
+Parte de la información clave puede depender de la interacción del usuario con la página. Esto podría ser un problema si los usuarios no interactúan con todos los elementos disponibles y, por lo tanto, pierden parte de la información.
+
+#### ELEMENTOS POSITIVOS
+La página incluye elementos interactivos que permiten al usuario explorar la información de manera dinámica, mejorando la comprensión y el compromiso con el contenido.
+
